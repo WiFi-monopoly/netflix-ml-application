@@ -5,9 +5,7 @@ Portfolio application for Machine Learning Engineer (L5) at Netflix
 This repository contains the documents and details supporting my application to the Machine Learning Engineer (L5) – Studio Media Algorithms position at Netflix.
 
 ## 📄 Documents
-- [Resume (Standard)](./netflix_Resume.pdf)
 - [Cover Letter](./Brad_Blair_Cover_Letter.pdf)
-- [Tailored Resume for Netflix](./Brad_Blair_Tailored_Resume_Netflix.pdf)
 
 ## 🧪 Technical Projects & Learning
 ### Image Tagging with CNN
